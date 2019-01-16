@@ -5,8 +5,8 @@ def loop_iterator(number_of_times)
     number_of_times = number_of_times + 1
     puts "Welcome to Flatiron School's Web Development Course!"
 
-    if counter >= 10 # If our counter is 10 or more
-      break # Stop the loop
+    if counter >= 7 
+      break 
     end
   end
 
